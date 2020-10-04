@@ -1,1 +1,3 @@
-# Project-2
+Project two is where we begin to learn low level and basic scripting with gitbash. I followed the directions and did not really have any problems until the very end where I could not figure out the directory for the backup. My first attempt on Project 2 went rather poorly as I was getting several errors when I had to solve some directory issues. I attempted using both Nano and a Linux VM but both were way worse to use than GitBash in my opinion. Learning the commands for getting in and out of vi did prove to be troublesome as well.
+
+The whole project was a great learning experience and really shows how important scripting and github can be. If it wasnt for having such an unorganized file system like I have it could have been much easier.
