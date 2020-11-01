@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#This code block is for a simple conditional statements.
+#In this case it's for determining if num_a is less than
+#num_b using "-lt" and [] for the evaluation.
+
+
 num_a=400
 num_b=200
 
